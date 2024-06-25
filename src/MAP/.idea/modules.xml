@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Apresentação - Decorator/Apresentação - Decorator.iml" filepath="$PROJECT_DIR$/Apresentação - Decorator/Apresentação - Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apresentação - Decorator/Head-First-Design-Patterns/Head-First-Design-Patterns.iml" filepath="$PROJECT_DIR$/Apresentação - Decorator/Head-First-Design-Patterns/Head-First-Design-Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab 00 - Introdução/Lab 00 - Introdução.iml" filepath="$PROJECT_DIR$/Lab 00 - Introdução/Lab 00 - Introdução.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab 01 - Expert/Lab 01 - Expert.iml" filepath="$PROJECT_DIR$/Lab 01 - Expert/Lab 01 - Expert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab 02 - Creator/Lab 02 - Creator.iml" filepath="$PROJECT_DIR$/Lab 02 - Creator/Lab 02 - Creator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab 03 - Coesao e Acoplamento/Lab 03 - Coesao e Acoplamento.iml" filepath="$PROJECT_DIR$/Lab 03 - Coesao e Acoplamento/Lab 03 - Coesao e Acoplamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab 04 - Polimorfismo heranca e composicao/Lab 04 - Polimorfismo heranca e composicao.iml" filepath="$PROJECT_DIR$/Lab 04 - Polimorfismo heranca e composicao/Lab 04 - Polimorfismo heranca e composicao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab 05 - Fachada/Lab 05 - Fachada.iml" filepath="$PROJECT_DIR$/Lab 05 - Fachada/Lab 05 - Fachada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab 06 - Singleton/Lab 06 - Singleton.iml" filepath="$PROJECT_DIR$/Lab 06 - Singleton/Lab 06 - Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab 07 - Visitor/Lab 07 - Visitor.iml" filepath="$PROJECT_DIR$/Lab 07 - Visitor/Lab 07 - Visitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab 08 - Adapter/Lab 08 - Adapter.iml" filepath="$PROJECT_DIR$/Lab 08 - Adapter/Lab 08 - Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab 09 - Factory/Lab 09 - Factory.iml" filepath="$PROJECT_DIR$/Lab 09 - Factory/Lab 09 - Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab 10 - Observer_MVC/Lab 10 - Observer_MVC.iml" filepath="$PROJECT_DIR$/Lab 10 - Observer_MVC/Lab 10 - Observer_MVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MAP.iml" filepath="$PROJECT_DIR$/.idea/MAP.iml" />
+    </modules>
+  </component>
+</project>

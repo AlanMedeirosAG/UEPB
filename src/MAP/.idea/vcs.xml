@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Apresentação - Decorator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Apresentação - Decorator/Head-First-Design-Patterns" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lab 02 - Creator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lab 03 - Coesao e Acoplamento" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lab 04 - Polimorfismo heranca e composicao" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lab 05 - Fachada" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lab 06 - Singleton" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lab 07 - Visitor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lab 08 - Adapter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lab 09 - Factory" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lab 10 - Observer_MVC" vcs="Git" />
+  </component>
+</project>
